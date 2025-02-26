@@ -18,6 +18,6 @@
     width: 100%;
     background-color: lightgray;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 100px 2fr;
     grid-template-rows: 50px 50px;
 }
