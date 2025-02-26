@@ -1,0 +1,23 @@
+.d1{
+    background-color: aqua;
+}
+.d2{
+    background-color: rebeccapurple;
+}
+.d3{
+    background-color: red;
+}
+.d4{
+    background-color: green;
+}
+.d5{
+    background-color: yellow;
+}
+.container{
+    font-size: 40px;
+    width: 100%;
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 50px 50px;
+}
